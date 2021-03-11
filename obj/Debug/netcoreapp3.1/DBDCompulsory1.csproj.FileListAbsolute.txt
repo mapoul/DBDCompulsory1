@@ -1,0 +1,12 @@
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.exe
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.deps.json
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.runtimeconfig.json
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.runtimeconfig.dev.json
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.dll
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.pdb
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.csprojAssemblyReference.cache
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.AssemblyInfoInputs.cache
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.AssemblyInfo.cs
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.dll
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.pdb
+C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.genruntimeconfig.cache
