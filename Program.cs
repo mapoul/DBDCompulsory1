@@ -8,7 +8,7 @@ namespace DBDCompulsory1
 {
     class Program
     {
-        private static string conString = "Data Source = MPOUL; Initial Catalog = Company; Integrated Security = True";
+        private static string conString = "Data Source = " + Environment.MachineName +"; Initial Catalog = Company; Integrated Security = True";
         static SqlConnection con = new SqlConnection(conString);
 
         private static bool programRun = true;
@@ -188,7 +188,7 @@ namespace DBDCompulsory1
         private static void GetAllDepartments()
         {
             using (var conn = new SqlConnection(conString))
-            using (var command = new SqlCommand("usp_GetAllDepartments", conn)
+            using (var command = new SqlCommand("dbo.usp_GetAllDepartments", conn)
             {
                 CommandType = CommandType.StoredProcedure
             })
