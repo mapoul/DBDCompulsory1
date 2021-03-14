@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
 using System.Runtime.CompilerServices;
@@ -8,6 +9,7 @@ namespace DBDCompulsory1
     class Program
     {
         private static string conString = "Data Source = MPOUL; Initial Catalog = Company; Integrated Security = True";
+        static SqlConnection con = new SqlConnection(conString);
 
         private static bool programRun = true;
         static void Main(string[] args)
@@ -167,6 +169,18 @@ namespace DBDCompulsory1
             {
                 conn.Open();
                 command.Parameters.AddWithValue("@DNumber", DNumber);
+                DataTable dt = new DataTable();
+                SqlDataAdapter ad = new SqlDataAdapter(command);
+                ad.Fill(dt);
+                for (int j = 0; j < dt.Rows.Count; j++)
+                {
+                    for (int i = 0; i < dt.Columns.Count; i++)
+                    {
+                        Console.Write(dt.Columns[i].ColumnName + " : ");
+                        Console.WriteLine(dt.Rows[j].ItemArray[i]);
+                        Console.WriteLine();
+                    }
+                }
                 command.ExecuteNonQuery();
             }
         }
@@ -174,12 +188,24 @@ namespace DBDCompulsory1
         private static void GetAllDepartments()
         {
             using (var conn = new SqlConnection(conString))
-            using (var command = new SqlCommand("dbo.usp_GetAllDepartments", conn)
+            using (var command = new SqlCommand("usp_GetAllDepartments", conn)
             {
                 CommandType = CommandType.StoredProcedure
             })
             {
                 conn.Open();
+                DataTable dt = new DataTable();
+                SqlDataAdapter ad = new SqlDataAdapter(command);
+                ad.Fill(dt);
+                for (int j = 0; j < dt.Rows.Count; j++)
+                {
+                    for (int i = 0; i < dt.Columns.Count; i++)
+                    {
+                        Console.Write(dt.Columns[i].ColumnName + " : ");
+                        Console.WriteLine(dt.Rows[j].ItemArray[i]);
+                        Console.WriteLine();
+                    }
+                }
                 command.ExecuteNonQuery();
             }
         }
