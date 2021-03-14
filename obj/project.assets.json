@@ -451,24 +451,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mpoul\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Wuzz\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpoul\\Documents\\GitHub\\DBD\\DBDCompulsory1\\DBDCompulsory1\\DBDCompulsory1.csproj",
+      "projectUniqueName": "C:\\Users\\Wuzz\\Desktop\\Github\\EASV\\DBD\\Compulsory Assignments\\DBDCompulsory1\\DBDCompulsory1.csproj",
       "projectName": "DBDCompulsory1",
-      "projectPath": "C:\\Users\\mpoul\\Documents\\GitHub\\DBD\\DBDCompulsory1\\DBDCompulsory1\\DBDCompulsory1.csproj",
-      "packagesPath": "C:\\Users\\mpoul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpoul\\Documents\\GitHub\\DBD\\DBDCompulsory1\\DBDCompulsory1\\obj\\",
+      "projectPath": "C:\\Users\\Wuzz\\Desktop\\Github\\EASV\\DBD\\Compulsory Assignments\\DBDCompulsory1\\DBDCompulsory1.csproj",
+      "packagesPath": "C:\\Users\\Wuzz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wuzz\\Desktop\\Github\\EASV\\DBD\\Compulsory Assignments\\DBDCompulsory1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\mpoul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Wuzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -479,6 +480,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -490,6 +492,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.Data.SqlClient": {
             "target": "Package",
@@ -511,7 +514,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -18,3 +18,23 @@ C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netc
 C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\mpoul\Documents\GitHub\DBD\DBDCompulsory1\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.exe
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.deps.json
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.runtimeconfig.json
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.runtimeconfig.dev.json
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\DBDCompulsory1.pdb
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.csprojAssemblyReference.cache
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.AssemblyInfoInputs.cache
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.AssemblyInfo.cs
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.csproj.CoreCompileInputs.cache
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.csproj.CopyComplete
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.dll
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.pdb
+C:\Users\Wuzz\Desktop\Github\EASV\DBD\Compulsory Assignments\DBDCompulsory1\obj\Debug\netcoreapp3.1\DBDCompulsory1.genruntimeconfig.cache
